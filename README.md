@@ -78,3 +78,6 @@ flask run
 
 
 Acesse http://127.0.0.1:5000 no navegador.
+
+<img width="1919" height="943" alt="image" src="https://github.com/user-attachments/assets/80119188-aff0-4697-9b8e-f8d07f89d6b1" />
+
